@@ -1,6 +1,12 @@
 npm init
 touch .bowerrc
 bower init
-bower install bootstrap
 bower install angular angular-route --save
+bower install bootstrap --save
+npm install express --save
+git init
+git remote add origin https://github.com/lizhongwu/shop.git
+git add .
+git commit -m"��ʼ����Ŀ"
+git push -u origin master
 doskey /history >> cmd.log
