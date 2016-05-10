@@ -1,0 +1,25 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "这是一个前后端分离的案例",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhongwu/shop.git"
+  },
+  "keywords": [
+    "shop"
+  ],
+  "author": "lizhongwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizhongwu/shop/issues"
+  },
+  "homepage": "https://github.com/lizhongwu/shop#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
